@@ -1,0 +1,12 @@
+Interstellar|Sci-Fi,Adventure,Drama
+Inception|Sci-Fi,Action,Thriller
+The Dark Knight|Action,Crime,Drama
+Avengers Endgame|Action,Adventure,Sci-Fi
+The Martian|Sci-Fi,Adventure,Drama
+Titanic|Romance,Drama
+John Wick|Action,Thriller,Crime
+Jurassic Park|Adventure,Sci-Fi,Thriller
+The Hangover|Comedy
+Forrest Gump|Drama,Romance
+Iron Man|Action,Adventure,Sci-Fi
+Avatar|Action,Adventure,Sci-Fi
